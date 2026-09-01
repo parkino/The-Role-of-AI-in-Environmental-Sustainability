@@ -1,1 +1,2 @@
 # The-Role-of-AI-in-Environmental-Sustainability
+Artificial intelligence can help address environmental challenges through improved forecasting, resource management, and emissions tracking . However, AI development itself consumes significant energy resources . Sustainable AI practices balance technological advancement with environmental responsibility. Mindful development ensures that AI serves both progress and the planet.💙💚💛
